@@ -36,7 +36,7 @@
       "postRequestScript" : "",
       "preRequestScript" : ""
     } ],
-    "url" : "",
+    "url" : "http://placeholder.de",
     "httpMethod" : "GET"
   }, {
     "@class" : "milkman.ui.plugin.rest.domain.RestRequestContainer",
