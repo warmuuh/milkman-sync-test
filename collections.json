@@ -38,6 +38,41 @@
     } ],
     "url" : "",
     "httpMethod" : "GET"
+  }, {
+    "@class" : "milkman.ui.plugin.rest.domain.RestRequestContainer",
+    "dirty" : false,
+    "id" : "5872b487-8b5a-4074-87cb-7b4fe126bab8",
+    "inStorage" : true,
+    "name" : "renaming of request",
+    "aspects" : [ {
+      "@class" : "milkman.ui.plugin.rest.domain.RestHeaderAspect",
+      "dirty" : false,
+      "entries" : [ ]
+    }, {
+      "@class" : "milkman.ui.plugin.rest.domain.RestBodyAspect",
+      "dirty" : false,
+      "body" : null
+    }, {
+      "@class" : "milkman.ui.plugin.rest.domain.RestQueryParamAspect",
+      "dirty" : false,
+      "entries" : [ ]
+    }, {
+      "@class" : "milkman.plugin.note.NotesAspect",
+      "dirty" : false,
+      "note" : ""
+    }, {
+      "@class" : "milkman.plugin.explore.JqlQueryAspect",
+      "dirty" : false,
+      "query" : "",
+      "queryHistory" : [ ]
+    }, {
+      "@class" : "milkman.plugin.scripting.ScriptingAspect",
+      "dirty" : false,
+      "postRequestScript" : "",
+      "preRequestScript" : ""
+    } ],
+    "url" : "http://google.de",
+    "httpMethod" : "GET"
   } ],
   "folders" : [ ]
 } ]
